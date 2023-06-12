@@ -1,1 +1,1 @@
-shell and bash excution 
+Shell and bash execution
